@@ -1,28 +1,33 @@
 [
   
   {
-    "name": "TIGO",
+    "name": "EVENTOS PARAGUAY",
     "samples": [
     
       {
-        "name": "TIGO PARAGUAY 1",
-        "uri": "https://250weu.bozztv.com/ssh101/ssh101/lamaleta/playlist.m3u8"
+        "name": "EVENTO PARAGUAY 1",
+        "uri": "356lIIwuDBbAhV4cCNTKz/u3+7MRFrSlsKiyO8NckxJ/hO1h3qAq4KizJ0BVUougzNUE+ceCwOZqsikYcxjLhQ==",
+        "icono": "https://i.ibb.co/vXS8LRf/eventos-1.jpg"
       },
       {
-        "name": "TIGO PARAGUAY 2",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8"
+        "name": "EVENTO PARAGUAY 2",
+        "uri": "F0BTDd4az2a4kmQMsb0gpF54NSoijnXx47BttQkMgRJtgL9qXI4f9CvZlbiqHDKbXyqUVSivs98gIdMx4JGHcQ==",
+        "icono": "https://i.ibb.co/XtsQwDh/eventos-2.jpg"
       },
       {
         "name": "TIGO PARAGUAY 3",
-        "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-giajvbware/1699300572/src/live.m3u8"
+        "uri": "cHhdDC8R3sVpZ/FEVt2J0KGG417xxSuijBZYCnjQaDBoT0CIZiDCYIEBjuXJ86AWzqEKg9lV888CYseFuc1CaBZh4wshBSCougZAVM+b4cs=",
+        "icono": "https://i.ibb.co/SrTXKbL/eventos3.jpg"
       },
       {
         "name": "TIGO BOLIVIA",
-        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8"
+        "uri": "OkQf+VNCGUJ/r+NRQt8rUHDa1bIEOePPSqAr6w5Cwjd6qEdwknu1883GWgKMUozA+ao0lCE/8qMbKZ1AcUcKEn0dNm653d8wqrWtKHAatUM1N9rFh5uH/P6dk9oSK4zF",
+        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg"
       },
       {
         "name": "TIGO GUATEMALA",
-        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        "uri": "OkQf+VNCGUJ/r+NRQt8rUHDa1bIEOePPSqAr6w5Cwjd6qEdwknu1883GWgKMUozA+ao0lCE/8qMbKZ1AcUcKEn0dNm653d8wqrWtKHAatUM1N9rFh5uH/P6dk9oSK4zF"
+        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg"
       }
     ]
     },
@@ -31,86 +36,102 @@
     "samples": [
 
       {
+        "icono": "https://i.ibb.co/k8zyVYR/telefuturo-hd.jpg",
         "name": "TELEFUTURO",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+0vEKyqsBe9iNzx5EXT6ikf1ps6f4Uhh8xD3Qi8RB1iTZ8mPI8fNLj0brSO9VJcIoLHFWxYmPbjufqRYsDmG+kQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLWzjDULU9hEN3GKdRQHzxF4zF1Kitu4wPaK6+jWubX+FYRm+G/ov+472dRQIk2yqclHCblPdes7lBsvUgsZn4ZTYvMgnfVq9a56E7lTEGO6RoI1GB0nb55WrEcCjCkTaqA=="
       },
       {
+        "icono": "https://i.ibb.co/HKQ6LV2/central-tv.jpg",
         "name": "CENTRAL TV",
-        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
+        "uri": "m2wo/5TN+xzjaSixrvVUbyFug8zTQOz2mnEJ2FlHj5XCxh/o/VzsHTl5sIIyPGSD/RP2e+vk3FgLFBK9cBYyQDU32sWHm4f8/p2T2hIrjMU=",
+        
       },
       {
+        "icono": "https://i.ibb.co/djwj06J/la-tele-hd.jpg",
         "name": "LA TELE",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+04pcVrw56LRanNv8Xl2965MuvUTkKswKL5AvhTLWWxWQpJG1Cn5yfnOXYOYt7zjR",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRSC2CUN6N6xjt+Rm3jLHrjbKFGIKZBQWo+IiOs5zsmT0uiviOv5A0CIIdq1xu6jNkdbNhKnYoiMX0XPdh4LXGzTAxgc1K6BisE5O/lA0BFOJaEW69jGAER+XhAPW9Q+rA=="
       },
       {
+        "icono": "https://i.ibb.co/C2bcDGb/snt-hd.jpg",
         "name": "SNT",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+R3EDeFeg0lJuDHS2iAmUsBsLTAbnuwpHK8B2YWQVhoUgdzbzvj+tuXOQv8H0sPeQ",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQJpeQIvXhx1NwzEawjk8wA9AKE2Es/6SSCuX56be2VCjbhRh3UMyegLfbrQNv1o6XcgGgWByusTx71aGRBQk/h++VrxnA2VuBB6cWm4TXMPxle1erBIIKN4L5SN21TILg=="
       },
       {
+        "icono": "https://i.ibb.co/Fs0FfS7/c9n-hd.jpg",
         "name": "C9N",
-        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_wl/C9N_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgoWrelVPMtu33xnBjjprJ7DSUk2XgrTj6ZnPz53sGMFqaAfe23nbk5HrQ4P/R/G/HxIpXIrLC04IW37VAKj3q60gdzbzvj+tuXOQv8H0sPeQ",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLTfQKGS6VtENPNXvzEMiu7lN+T2a7hgyaYIwdnsPEQnVQxnz3Bp0Ux/jd/Qi+RSFF0pYFr4mZaX+g6sG++hoELuG2JiyJbqvKWuFf9fFP3vBGroJzNPEQKnfcuTQulbCpw=="
       },
       {
+        "icono": "https://i.ibb.co/3NFfkVd/gen-tv.jpg",
         "name": "GEN TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZMFaKcSErgfhw2HssSInTT9h2e+8r0x1nwUW3KnUHEve9KutUZ9dUkJmq5UKaWL/V",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQw3+WIpNpu8oGssleutkXxVPhCVVuPRkJeSbI9++ICtQMJp/b93kohpw0lNK2WgBGMHR5Dz15Hn6IH/4irCSvZXZx2dGxivtMbMd5SJEFVEP0HbdDfKPzI8fg1sUI+v6w=="
       },
       {
+        "icono": "https://i.ibb.co/c85KMBX/canal-13.jpg",
         "name": "TRECE PY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+DU3Ualv4xUR/Ua4yRhZWckylP5QKebXmKDOgjgZgNrQgdzbzvj+tuXOQv8H0sPeQ",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfDPI0/wN3l0VKMcfZMMdlX94vrmOsrY1VPhJuIYcoHghbuhN3US7HHEcaTrV4wK6B45meCIGTimnyS/03OxUsY//exzkxDhuSsW20E2P85TZPiz+5Oy30C+ic1Jwiwb+g=="
       },
       {
+        "icono": "https://i.ibb.co/7y6bVrF/unicanal.jpg",
         "name": "UNICANAL",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+wp1wwaY/pXyKW/94SdyD9D7X8ud87lQnOFOsp4GsHRx51UuodFZakhqYkoAO4NcH",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcvOG/hfmGNYMdEvjNvij6s1jRY7ZiZuU6dZ9adxsTbeQrlx2S1+3SxXlFlE5OgmetqHxZWntJQ3ajMiVppme6vija4Ro6hpmH+vc1GX3klIuDIhpwgBe5SUQA68fMM7tQ=="
       },
       {
+        "icono": "https://i.ibb.co/tXGtQSR/abc.jpg",
         "name": "ABC TV",
-        "uri": "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8"
+        "uri": "nX1SnOzdr8143cfs+f9V2gjELpovaDU7Qd3aJU1OOd2XUI2q5UfN7Pu4GK3WRvsndxm0KogD3oy6iJ6jEfjXJEFzPKm7RzaBVmMOozulnMxq2i0VcF2VZCIH66xU8XFkfnVE5g/zSTSAJs+vOYPvhFj6ekixQVGpFXpxdgKkhWsznlRTbHGD4AJEL5k7hdV5"
 
       },
       {
+        "icono": "https://i.ibb.co/sg5vrbR/npy.jpg",
         "name": "NPY PY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+IDcYZN0tcCZI4mUoNg+9DF0IUjHCvD9HxHEgVT9xe1NIfPOJxn14huCnUFEbGtegIHc2874/rblzkL/B9LD3kA==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLe2uJuSQI2hDEQ6X6GvDJAcjWy7LiL4CAg/YHKclhddjRjcbHHEAmnM2/5o7lOTN+mc0oR1/jCcyfFFCL16CvA/sGyQpAwwH65A1ia4iHnlAyPk0ISjGZnTkD0Z+Jkq2uQ=="
       },
       {
+        "icono": "https://i.ibb.co/642Ks2L/paravision.jpg",
         "name": "PARAVISION",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+JZRhiqhLFZ8Cw8j7FiHN6P1ps6f4Uhh8xD3Qi8RB1iRAG1BFTX0mYa0mmq4E1L/3LHFWxYmPbjufqRYsDmG+kQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQ3DUpQu5hc369hML1ZSNIpw7j8+0oXea6jP4/VYM3p64aVrmtaYk3sTeIZO6h43jqNnJWhSnHemVreQy4b7xDBA+ls2S62C+Q8Esst7AeVuwdzaIwUElaN3+3v2vNvY0A=="
       },
       {
+        "icono": "https://i.ibb.co/jyHmcSL/sur-tv.jpg",
         "name": "SUR TV",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8"
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9Ql6SWq8be9dDp/U7yKr8R0pPW46kgUXpRd5Z0Wj3Wqt"
 
       },
       {
+        "icono": "http://static.tvar.io/imagenes/canalpro.png",
         "name": "CANAL PRO",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZKUmcdBoRZ2ey6jIxjL3iNRijXfUSSQNVNEbMCwz7QzzoXET4cFTABTPEo82EOV6n",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLYWvQ7/ULAJlyWwnhw+DacsdJabTtB47jq3Jz3mjsitCW5v4KtzFhXQFMDIb7eWmARAaGO7nkU/NPzeJJZqVFFKKXGpbKsBHZ5ubtOum5iaznJxIxn57v2sJL1ei7tc5TQ=="
       },
       {
+        "icono": "http://static.tvar.io/imagenes/5diaspy.png",
         "name": "5 DIAS PY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+gPpe5t3SkUdlyY+xGf98r8btkzTFlLizCBjFz6QvuBbQwgvHida/w9BVQKM/y9H7",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839"
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRum5J+5ukEmWHNdbsyRT88ed7DoSIm/DX5qJN0fMHkrHv5nnRLF+cMW86sJniYXe/MAZ1JIZlVw1ayFN2DTn8SMt+13dxRs0Cr4efzxk6159pz33Yfk1ASNE8eRGgqTwA=="
       },
       {
+        "icono": "http://static.tvar.io/imagenes/paraguaytv.png",
         "name": "PY TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
