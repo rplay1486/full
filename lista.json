@@ -268,5 +268,26 @@
         "uri": "Yur9uIreChFdhKqkd4eT0OzCaqo8iSyKWym/FLu1dYkyhCjWafoFS761/KXhwFp6RoH3WQQVvcl94tK88HR9Gg=="
       }
     ]
-  }
+  },
+	{
+    "name": "BRASIL",
+    "samples": [
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "CNN HD",
+        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7IqLQrWA+n6QP5h3SrYvU31zA6pz4VC99a48PDVVCsPD"
+      },
+	{
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "CNN FHD",
+        "uri": "F0BMomzWcJ1klLRwcNmmbZ3cGzLu1uajZs+dStf1JYN678seGT7BDPz43I9ENUCIwb3uCf/bfeEpddTiKXW56Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "GLOBO TV HD",
+        "uri": "sXsJvoRPp87vZmFztXr/cQ9gJjtAEkMjZmUnPkD5s082mEQuEnHPGdDUNryDjQTjNTfaxYebh/z+nZPaEiuMxQ=="
+        
+      }
+    ]
+}
 ]
